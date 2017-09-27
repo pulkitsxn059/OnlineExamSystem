@@ -1,0 +1,44 @@
+.maindiv{
+width:500px;
+height:400px;
+border:1px solid #000;
+margin-top:80px;
+}
+.imgdiv{
+width:150px;
+height:150px;
+float:left;
+border:1px solid #000;
+margin-top:10px;
+margin-left:20px;
+}
+.namediv{
+width:460px;
+height:20px;
+font-size:15px;
+text-align:left;
+margin-top:10px;
+font-family:verdana;
+}
+.sidediv{
+width:300px;
+height:150px;
+margin-left:20px;
+margin-top:30px;
+text-align:left;
+float:left;
+}
+.bdiv{
+width:348px;
+height:30px;
+}
+.btdiv{
+width:348px;
+height:60px;
+}
+.btn{
+width:150px;
+height:30px;
+border:1px solid #000;
+background-color:grey;
+}
